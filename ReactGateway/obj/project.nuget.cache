@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "kw5hRLY15s8GMT6mj0GS1Di6Q86pYuzPLclzTffNdcHhBPwP0mN8u6MuN03SSXtTO/oH19mwGW+J6J1WY8sH9w==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\itzik\\source\\repos\\ReactGateway\\ReactGateway.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\itzik\\.nuget\\packages\\newtonsoft.json\\13.0.3\\newtonsoft.json.13.0.3.nupkg.sha512"
+  ],
+  "logs": []
+}
